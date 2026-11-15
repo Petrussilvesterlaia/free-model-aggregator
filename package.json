@@ -1,0 +1,1 @@
+{"description":"One OpenAI- and Anthropic-shaped front door over ten free-model providers: requirement-aware routing, budget rationing and failover.","license":"MIT","name":"free-model-aggregator","private":true,"type":"module","version":"1.0.0"}
